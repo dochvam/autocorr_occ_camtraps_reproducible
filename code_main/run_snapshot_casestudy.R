@@ -149,7 +149,7 @@ result_list <- list()
 for (i in 1:nrow(species_df)) {
   writeLines(paste0("Modeling ", species_df$common_name[i]))
   umf_list[[i]] <- readRDS(paste0(
-    "snapshot_case_study/snapshot_dat/datlist_", 
+    "input_data/snapshot2020/datlist_", 
     gsub("[ -]", "_", gsub("'", "", species_df$common_name[i])), 
     "_1_0_2020.RDS"
   ))
@@ -162,7 +162,7 @@ result_df <- result_list %>%
   lapply(function(x) x$summary) %>% 
   bind_rows()
 
-write_csv(result_df, "snapshot_case_study/snapshot_clustered_results.csv")
+write_csv(result_df, "intermediate/snapshot_clustered_results.csv")
 
 #### Create summary table for paper ####
 
@@ -170,7 +170,7 @@ alt_df <- read_csv("intermediate/casestudy_alt_summary_df.csv") %>%
   filter(window %in% c(1, 10)) %>% 
   mutate(modtype = paste0(window, "-day SOM")) %>% 
   select(common_name = species, modtype, submodel, param, Estimate, SE)
-cluster_df <- read_csv("snapshot_case_study/snapshot_clustered_results.csv") %>% 
+cluster_df <- read_csv("intermediate/snapshot_clustered_results.csv") %>% 
   mutate(modtype = "Clustered") %>% 
   select(common_name = species, modtype, submodel, param = parname, Estimate, SE)
 
