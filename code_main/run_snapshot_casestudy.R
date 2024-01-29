@@ -15,7 +15,7 @@ source("code_helper/gof.R")
 source("code_helper/helper_fn_clustered.R")
 
 # Load in the list of species that we want to iterate over
-species_df <- read_csv("input_data/casestudy_target_specs2.csv") %>% 
+species_df <- read_csv("input_data/casestudy_target_specs.csv") %>% 
   mutate(median_depl = NA, num_cams = NA, num_cams_wdet = NA,
          num_dets = NA) %>% 
   filter(!common_name %in% c("Desert Cottontail"))
