@@ -1,9 +1,9 @@
 #########################################################################
 #' Author: Benjamin R. Goldstein
-#' run_simulation2.R
+#' run_simulation3.R
 #' 
-#' This file executes simulation 2 from the manuscript and produces output
-#' files giving results from those simulations. Simulation 2 looks at how
+#' This file executes simulation 3 from the manuscript and produces output
+#' files giving results from those simulations. Simulation 3 looks at how
 #' the impact of autocorrelation varies with detection window and gap.
 #########################################################################
 

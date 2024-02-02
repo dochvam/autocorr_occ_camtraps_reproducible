@@ -1,9 +1,9 @@
 #########################################################################
 #' Author: Benjamin R. Goldstein
-#' run_simulation34.R
+#' run_simulation24.R
 #' 
-#' This file executes simulations 3 and 4 from the manuscript and produces output
-#' files giving results from those simulations. Simulation 3 evaluates the 
+#' This file executes simulations 2 and 4 from the manuscript and produces output
+#' files giving results from those simulations. Simulation 2 evaluates the 
 #' performance of the join count test for identifying autocorrelated detections.
 #' Simulation 4 estimates these datasets with the clustered occupancy model
 #' to compare performance.
