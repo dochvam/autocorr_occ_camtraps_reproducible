@@ -22,7 +22,7 @@ set.seed(7233717)
 # Read in functions for sim
 source("code_helper/helper_fn_clustered.R")
 
-nsim <- 1#000
+nsim <- 1000
 par_method <- "parabar"
 ncores <- 44
 tag <- "" # optional suffix to append to output filenames
@@ -35,7 +35,7 @@ parameter_grid <- expand.grid(
   logit_psi_mu = logit(c(0.3, 0.4, 0.5, 0.6)),
   overall_det_prob = c(0.15, 0.2, 0.25, 0.3),
   det_breakdown = c(1/3, 1),
-  autocorr_str = c(1, 5, 10)
+  autocorr_str = c(1, 2, 5, 10)
 ) %>%
   as.data.frame() %>% 
   filter(overall_det_prob * det_breakdown < 1 &

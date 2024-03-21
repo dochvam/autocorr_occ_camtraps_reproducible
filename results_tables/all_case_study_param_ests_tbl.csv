@@ -1,0 +1,541 @@
+Species,ModType,Submodel,Param,Estimate,SE
+Alces alces,1-day SOM,Detection,Intercept,-8.112482219542363,1.655712061156616
+Alces alces,1-day SOM,Detection,Canopy height,-0.9364957800204048,0.29055402383103995
+Alces alces,1-day SOM,Detection,Log dist. to road,4.112766775862523,2.028344101058401
+Alces alces,1-day SOM,Occupancy,Intercept,2.036138230581211,2.3217990443581384
+Alces alces,1-day SOM,Occupancy,Max temp.,2.6296422447631045,2.4964822526645
+Alces alces,1-day SOM,Occupancy,Pct. forest cover,-0.16926399226565053,1.0655416384624474
+Alces alces,10-day SOM,Detection,Intercept,-6.322162543257489,2.1037837627567217
+Alces alces,10-day SOM,Detection,Canopy height,-1.0042113465665925,0.364353898347008
+Alces alces,10-day SOM,Detection,Log dist. to road,4.6670775257745465,2.5977149587820403
+Alces alces,10-day SOM,Occupancy,Intercept,2.132214494893502,2.8465444241382203
+Alces alces,10-day SOM,Occupancy,Max temp.,2.602023543988584,2.7311749572123745
+Alces alces,10-day SOM,Occupancy,Pct. forest cover,-0.13695383445553108,1.0912729002885349
+Alces alces,Clustered,Detection,Intercept,-7.419828946901868,NA
+Alces alces,Clustered,Detection,Canopy height,-0.9569584509439096,NA
+Alces alces,Clustered,Detection,Log dist. to road,4.136254848491095,NA
+Alces alces,Clustered,Occupancy,Intercept,1.9765722596362088,NA
+Alces alces,Clustered,Occupancy,Max temp.,2.599228133348507,NA
+Alces alces,Clustered,Occupancy,Pct. forest cover,-0.17375134148938998,NA
+Alces alces,Clustered,Site use,Theta,13.092679681431434,NA
+Alces alces,Clustered,Site use,Theta Prime,-47.40559161913493,NA
+Antilocapra americana,1-day SOM,Detection,Intercept,-2.4169828999142204,0.1279594486041059
+Antilocapra americana,1-day SOM,Detection,Canopy height,0.00157794136430275,0.08938505448584967
+Antilocapra americana,1-day SOM,Detection,Log dist. to road,-0.3284815389940713,0.2506181427696142
+Antilocapra americana,1-day SOM,Occupancy,Intercept,-1.611865214315616,0.28265299961075807
+Antilocapra americana,1-day SOM,Occupancy,Max temp.,-1.9114276566783508,0.43908560476663616
+Antilocapra americana,1-day SOM,Occupancy,Pct. forest cover,-1.3823993225966904,0.5034559263521116
+Antilocapra americana,10-day SOM,Detection,Intercept,-0.495779126864808,0.25184633822380004
+Antilocapra americana,10-day SOM,Detection,Canopy height,-0.14424215140163402,0.16263367887146635
+Antilocapra americana,10-day SOM,Detection,Log dist. to road,0.3917493173137472,0.32439017982782614
+Antilocapra americana,10-day SOM,Occupancy,Intercept,-1.3196782937865517,0.3677864992102658
+Antilocapra americana,10-day SOM,Occupancy,Max temp.,-2.656489428995747,0.8812428195988392
+Antilocapra americana,10-day SOM,Occupancy,Pct. forest cover,-1.6374006812741309,0.6592726391461728
+Antilocapra americana,Clustered,Detection,Intercept,-2.404425285768041,0.36812115191904976
+Antilocapra americana,Clustered,Detection,Canopy height,0.00150414254508823,0.08948742513449391
+Antilocapra americana,Clustered,Detection,Log dist. to road,-0.3285459433597579,0.2510762851867225
+Antilocapra americana,Clustered,Occupancy,Intercept,-1.6118626426306124,0.2826568196712232
+Antilocapra americana,Clustered,Occupancy,Max temp.,-1.9116126985766415,0.4391220915109744
+Antilocapra americana,Clustered,Occupancy,Pct. forest cover,-1.3826879575505462,0.5035064159329657
+Antilocapra americana,Clustered,Site use,Theta,4.2307503045559605,NA
+Antilocapra americana,Clustered,Site use,Theta Prime,4.449687400634633,27.94879803087128
+Canis latrans,1-day SOM,Detection,Intercept,-2.546869270123699,0.03011632840270593
+Canis latrans,1-day SOM,Detection,Canopy height,-0.3183072650906322,0.03106652127307879
+Canis latrans,1-day SOM,Detection,Log dist. to road,-0.1834726436397659,0.03211685756022422
+Canis latrans,1-day SOM,Occupancy,Intercept,-0.41901715579967064,0.06421634661307389
+Canis latrans,1-day SOM,Occupancy,Max temp.,0.3196071362247307,0.07062668621805415
+Canis latrans,1-day SOM,Occupancy,Pct. forest cover,0.2195993831515862,0.06916075063086315
+Canis latrans,10-day SOM,Detection,Intercept,-0.46281752402388165,0.05915797266652373
+Canis latrans,10-day SOM,Detection,Canopy height,-0.28375618867633245,0.06054751757712341
+Canis latrans,10-day SOM,Detection,Log dist. to road,-0.17500066143718324,0.06261571891297392
+Canis latrans,10-day SOM,Occupancy,Intercept,-0.1526840384803668,0.08213048650853902
+Canis latrans,10-day SOM,Occupancy,Max temp.,0.3239317956413365,0.08137164398925802
+Canis latrans,10-day SOM,Occupancy,Pct. forest cover,0.19523862655001512,0.08580543278387834
+Canis latrans,Clustered,Detection,Intercept,-1.187925332934825,0.08846213422747082
+Canis latrans,Clustered,Detection,Canopy height,-0.4574866597133067,0.05061781397910024
+Canis latrans,Clustered,Detection,Log dist. to road,-0.3235963211250799,0.05832962426872836
+Canis latrans,Clustered,Occupancy,Intercept,0.06355702315063498,0.10196315941599517
+Canis latrans,Clustered,Occupancy,Max temp.,0.3982622211842728,0.08913006381261171
+Canis latrans,Clustered,Occupancy,Pct. forest cover,0.28620180861514005,0.09155582268619984
+Canis latrans,Clustered,Site use,Theta,-2.7902060380483555,0.09724629449344316
+Canis latrans,Clustered,Site use,Theta Prime,1.5900287311173606,0.15085970648020655
+Canis lupus,1-day SOM,Detection,Intercept,-3.713206003369974,0.2870735979589076
+Canis lupus,1-day SOM,Detection,Canopy height,0.2033018621119632,0.24804340652043655
+Canis lupus,1-day SOM,Detection,Log dist. to road,-0.523243763593061,0.18766102537658724
+Canis lupus,1-day SOM,Occupancy,Intercept,-0.6599838638039484,0.3636504570777323
+Canis lupus,1-day SOM,Occupancy,Max temp.,-0.6382232764731959,0.29018572439076057
+Canis lupus,1-day SOM,Occupancy,Pct. forest cover,0.5402352877385639,0.3566726610967647
+Canis lupus,10-day SOM,Detection,Intercept,-2.062456413936848,0.3445430305677282
+Canis lupus,10-day SOM,Detection,Canopy height,-0.14959506161386182,0.3156577803902145
+Canis lupus,10-day SOM,Detection,Log dist. to road,-0.8978240644133585,0.275448752516404
+Canis lupus,10-day SOM,Occupancy,Intercept,0.10088669181826156,0.6515576616501506
+Canis lupus,10-day SOM,Occupancy,Max temp.,-0.917778464788136,0.4304126337740264
+Canis lupus,10-day SOM,Occupancy,Pct. forest cover,1.1185720232977667,0.6278176846256461
+Canis lupus,Clustered,Detection,Intercept,1.2054343845887203,1.0281433472256178
+Canis lupus,Clustered,Detection,Canopy height,-1.050810138443348,0.5400020275876907
+Canis lupus,Clustered,Detection,Log dist. to road,-6.216912182934611,1.9056635987786612
+Canis lupus,Clustered,Occupancy,Intercept,-0.1500215956565701,0.4215567104992299
+Canis lupus,Clustered,Occupancy,Max temp.,-0.8524250598095886,0.30669954406632133
+Canis lupus,Clustered,Occupancy,Pct. forest cover,0.6206509588669166,0.48801749398562855
+Canis lupus,Clustered,Site use,Theta,-2.9240177878433675,0.2973775549387526
+Canis lupus,Clustered,Site use,Theta Prime,-1.6801103290795103,0.661424965168626
+Dasypus novemcinctus,1-day SOM,Detection,Intercept,-2.2948110481746693,0.06731189189025735
+Dasypus novemcinctus,1-day SOM,Detection,Canopy height,0.3147184472046385,0.06390554440526061
+Dasypus novemcinctus,1-day SOM,Detection,Log dist. to road,0.4371178129783793,0.06809114304763529
+Dasypus novemcinctus,1-day SOM,Occupancy,Intercept,-0.1973878909368408,0.12931038484676122
+Dasypus novemcinctus,1-day SOM,Occupancy,Max temp.,0.04169174206953665,0.13443948903645409
+Dasypus novemcinctus,1-day SOM,Occupancy,Pct. forest cover,0.04788942162235098,0.13288714343601452
+Dasypus novemcinctus,10-day SOM,Detection,Intercept,-0.12143306063536896,0.15628911507027782
+Dasypus novemcinctus,10-day SOM,Detection,Canopy height,0.8178330166579634,0.16355480730983676
+Dasypus novemcinctus,10-day SOM,Detection,Log dist. to road,0.5712697148422197,0.14327564491548048
+Dasypus novemcinctus,10-day SOM,Occupancy,Intercept,0.07430860954959909,0.18804829101394976
+Dasypus novemcinctus,10-day SOM,Occupancy,Max temp.,0.2577561808757656,0.20355629810206835
+Dasypus novemcinctus,10-day SOM,Occupancy,Pct. forest cover,0.06102525968143403,0.161907761545974
+Dasypus novemcinctus,Clustered,Detection,Intercept,-1.6369338666668891,0.1438085850130131
+Dasypus novemcinctus,Clustered,Detection,Canopy height,0.3018881476333525,0.0857151113170462
+Dasypus novemcinctus,Clustered,Detection,Log dist. to road,0.4520768420438578,0.08636514057846517
+Dasypus novemcinctus,Clustered,Occupancy,Intercept,-0.01102880784248539,0.15843974963473262
+Dasypus novemcinctus,Clustered,Occupancy,Max temp.,0.02459608145771073,0.15193660416207433
+Dasypus novemcinctus,Clustered,Occupancy,Pct. forest cover,0.05062053084035967,0.1446276817209349
+Dasypus novemcinctus,Clustered,Site use,Theta,-2.178540541967423,0.2883575043058891
+Dasypus novemcinctus,Clustered,Site use,Theta Prime,2.2756350453750827,0.3983415194953012
+Didelphis virginiana,1-day SOM,Detection,Intercept,-1.839301253214399,0.02593777809238331
+Didelphis virginiana,1-day SOM,Detection,Canopy height,-0.27000905914712053,0.02747022973241773
+Didelphis virginiana,1-day SOM,Detection,Log dist. to road,-0.1401412699495257,0.02614754413980433
+Didelphis virginiana,1-day SOM,Occupancy,Intercept,-0.6062718706624083,0.06769991879349371
+Didelphis virginiana,1-day SOM,Occupancy,Max temp.,-0.07846883671122896,0.07300053166023934
+Didelphis virginiana,1-day SOM,Occupancy,Pct. forest cover,0.06635514347404659,0.06751153231763767
+Didelphis virginiana,10-day SOM,Detection,Intercept,0.1958119791892761,0.0698823901081469
+Didelphis virginiana,10-day SOM,Detection,Canopy height,-0.26692792707561913,0.07934430056766303
+Didelphis virginiana,10-day SOM,Detection,Log dist. to road,-0.17772326242190192,0.07222310358905405
+Didelphis virginiana,10-day SOM,Occupancy,Intercept,-0.4023821984121143,0.07863442367483366
+Didelphis virginiana,10-day SOM,Occupancy,Max temp.,-0.11393326393907768,0.0804721721857399
+Didelphis virginiana,10-day SOM,Occupancy,Pct. forest cover,0.04730548499832349,0.07875002612737356
+Didelphis virginiana,Clustered,Detection,Intercept,-0.6107994975603417,0.0654044132318871
+Didelphis virginiana,Clustered,Detection,Canopy height,-0.3743619370745989,0.04936132595450469
+Didelphis virginiana,Clustered,Detection,Log dist. to road,-0.13251377006137657,0.04406693472616428
+Didelphis virginiana,Clustered,Occupancy,Intercept,-0.2757198220492699,0.08750775019604697
+Didelphis virginiana,Clustered,Occupancy,Max temp.,-0.09517698359120168,0.08143004689167131
+Didelphis virginiana,Clustered,Occupancy,Pct. forest cover,0.02035601142908623,0.07825167447271435
+Didelphis virginiana,Clustered,Site use,Theta,-2.6963230081587835,0.09769368783126953
+Didelphis virginiana,Clustered,Site use,Theta Prime,1.9595392736422277,0.12123624965576468
+Glaucomys sabrinus,1-day SOM,Detection,Intercept,-2.333792271256653,0.12046110740076844
+Glaucomys sabrinus,1-day SOM,Detection,Canopy height,0.21038179750791708,0.13943906616163873
+Glaucomys sabrinus,1-day SOM,Detection,Log dist. to road,-0.5127760944521366,0.13067197575879827
+Glaucomys sabrinus,1-day SOM,Occupancy,Intercept,-2.436028847631054,0.23649386679632103
+Glaucomys sabrinus,1-day SOM,Occupancy,Max temp.,-0.70433216949687,0.25378633029359127
+Glaucomys sabrinus,1-day SOM,Occupancy,Pct. forest cover,-0.7875132862712673,0.2246682693650663
+Glaucomys sabrinus,10-day SOM,Detection,Intercept,-0.13804625444441077,0.26197964397320284
+Glaucomys sabrinus,10-day SOM,Detection,Canopy height,0.7876413190474446,0.2631022121837185
+Glaucomys sabrinus,10-day SOM,Detection,Log dist. to road,-0.7583402861158526,0.3079486412773482
+Glaucomys sabrinus,10-day SOM,Occupancy,Intercept,-2.4356221860122877,0.27177622596020157
+Glaucomys sabrinus,10-day SOM,Occupancy,Max temp.,-0.8350117519587179,0.3030002794843847
+Glaucomys sabrinus,10-day SOM,Occupancy,Pct. forest cover,-0.9127027038932038,0.25243499598462416
+Glaucomys sabrinus,Clustered,Detection,Intercept,-0.7303400522189143,0.26345124135357706
+Glaucomys sabrinus,Clustered,Detection,Canopy height,0.8571615582481713,0.31811314408459795
+Glaucomys sabrinus,Clustered,Detection,Log dist. to road,-1.7705036253863993,0.3600195750444317
+Glaucomys sabrinus,Clustered,Occupancy,Intercept,-2.2362233706947303,0.2508553119751317
+Glaucomys sabrinus,Clustered,Occupancy,Max temp.,-0.7430563781340899,0.27508752714849327
+Glaucomys sabrinus,Clustered,Occupancy,Pct. forest cover,-0.908467113689892,0.24266877631126815
+Glaucomys sabrinus,Clustered,Site use,Theta,-2.477044577120878,0.2444318968975648
+Glaucomys sabrinus,Clustered,Site use,Theta Prime,1.5387712265636575,0.3483127898456721
+Lepus americanus,1-day SOM,Detection,Intercept,-3.342107493169032,0.2443730473956801
+Lepus americanus,1-day SOM,Detection,Canopy height,0.3442269606856667,0.16432264818178896
+Lepus americanus,1-day SOM,Detection,Log dist. to road,1.0515026777232468,0.22009514982361733
+Lepus americanus,1-day SOM,Occupancy,Intercept,-2.6180900300088372,0.3246400073678755
+Lepus americanus,1-day SOM,Occupancy,Max temp.,-0.9418590252817204,0.345459405050485
+Lepus americanus,1-day SOM,Occupancy,Pct. forest cover,0.03629123749259586,0.23358632819353395
+Lepus americanus,10-day SOM,Detection,Intercept,-1.675688665397683,0.35782072973999457
+Lepus americanus,10-day SOM,Detection,Canopy height,-0.3652354200238884,0.30923890162915274
+Lepus americanus,10-day SOM,Detection,Log dist. to road,0.7676924909468268,0.2939318969505136
+Lepus americanus,10-day SOM,Occupancy,Intercept,-2.172382907338294,0.3808625710891594
+Lepus americanus,10-day SOM,Occupancy,Max temp.,-0.9531629386902212,0.3820914661709468
+Lepus americanus,10-day SOM,Occupancy,Pct. forest cover,0.15198570632191646,0.24588953292787935
+Lepus americanus,Clustered,Detection,Intercept,-2.2159329764187707,0.2509779573197692
+Lepus americanus,Clustered,Detection,Canopy height,0.9836533113057112,0.2802575057524187
+Lepus americanus,Clustered,Detection,Log dist. to road,1.136970459763716,0.2280891384561392
+Lepus americanus,Clustered,Occupancy,Intercept,1.345098370765352,5.875075544687011
+Lepus americanus,Clustered,Occupancy,Max temp.,-64.03991263905063,102.57580114303792
+Lepus americanus,Clustered,Occupancy,Pct. forest cover,22.757528815526623,37.70026790796763
+Lepus americanus,Clustered,Site use,Theta,-6.414570850635944,0.299174223347932
+Lepus americanus,Clustered,Site use,Theta Prime,3.7316371283471264,0.3345333353986346
+Lepus californicus,1-day SOM,Detection,Intercept,-3.3453379977593127,0.8691087230432806
+Lepus californicus,1-day SOM,Detection,Canopy height,-2.226594807393316,0.9724235073654592
+Lepus californicus,1-day SOM,Detection,Log dist. to road,-0.43809413607256514,0.12881178161958234
+Lepus californicus,1-day SOM,Occupancy,Intercept,-3.708334943540564,0.6930379895592946
+Lepus californicus,1-day SOM,Occupancy,Max temp.,1.6073287124248468,0.4582507457440744
+Lepus californicus,1-day SOM,Occupancy,Pct. forest cover,-1.1638855855242878,0.6112029971709829
+Lepus californicus,10-day SOM,Detection,Intercept,-0.6245047123984432,1.060292096485767
+Lepus californicus,10-day SOM,Detection,Canopy height,-1.9600463471031009,1.150837846504129
+Lepus californicus,10-day SOM,Detection,Log dist. to road,-0.6893849422349512,0.5397700780950719
+Lepus californicus,10-day SOM,Occupancy,Intercept,-3.6567569232221655,0.709866626655516
+Lepus californicus,10-day SOM,Occupancy,Max temp.,1.532775377035214,0.4543559073598337
+Lepus californicus,10-day SOM,Occupancy,Pct. forest cover,-1.1774411305050068,0.6281079855296842
+Lepus californicus,Clustered,Detection,Intercept,-2.403428431761295,0.8928297472772392
+Lepus californicus,Clustered,Detection,Canopy height,-2.394170335658099,0.9890112871688772
+Lepus californicus,Clustered,Detection,Log dist. to road,-1.0761153334658031,0.27015290754094934
+Lepus californicus,Clustered,Occupancy,Intercept,-3.667397409741579,0.6840933950023332
+Lepus californicus,Clustered,Occupancy,Max temp.,1.6085902551018656,0.4571490270446803
+Lepus californicus,Clustered,Occupancy,Pct. forest cover,-1.1992529275979158,0.6141882910227091
+Lepus californicus,Clustered,Site use,Theta,-2.0805841390186406,0.28626876370606286
+Lepus californicus,Clustered,Site use,Theta Prime,2.1223737300712706,0.4239664708906542
+Lynx rufus,1-day SOM,Detection,Intercept,-3.4373575459491854,0.0764043998858354
+Lynx rufus,1-day SOM,Detection,Canopy height,-0.06583767305939671,0.07358424881308952
+Lynx rufus,1-day SOM,Detection,Log dist. to road,-0.00730314103720684,0.09207849765140816
+Lynx rufus,1-day SOM,Occupancy,Intercept,-1.1886637093336128,0.10685419443943568
+Lynx rufus,1-day SOM,Occupancy,Max temp.,0.16924797388865598,0.10383653474424662
+Lynx rufus,1-day SOM,Occupancy,Pct. forest cover,0.1658790980994404,0.10451732673697424
+Lynx rufus,10-day SOM,Detection,Intercept,-1.200680444996908,0.11889326087499869
+Lynx rufus,10-day SOM,Detection,Canopy height,-0.13370644362829368,0.10350839931034216
+Lynx rufus,10-day SOM,Detection,Log dist. to road,-0.19109398569898817,0.12726379669155524
+Lynx rufus,10-day SOM,Occupancy,Intercept,-1.053002367033331,0.13040389993256754
+Lynx rufus,10-day SOM,Occupancy,Max temp.,0.15960439454931655,0.11117901320924178
+Lynx rufus,10-day SOM,Occupancy,Pct. forest cover,0.13628353831301362,0.11458561297410434
+Lynx rufus,Clustered,Detection,Intercept,-2.8631456712877053,0.1139015477003185
+Lynx rufus,Clustered,Detection,Canopy height,-0.04396381846855801,0.08114399863009142
+Lynx rufus,Clustered,Detection,Log dist. to road,0.08847258045177513,0.10512530082922455
+Lynx rufus,Clustered,Occupancy,Intercept,4.052447220500182,2.9280421229225784
+Lynx rufus,Clustered,Occupancy,Max temp.,1.7378503098428286,1.5610948165498315
+Lynx rufus,Clustered,Occupancy,Pct. forest cover,1.9627870749144551,1.4290460883285132
+Lynx rufus,Clustered,Site use,Theta,-5.197599694077596,0.18818408250295077
+Lynx rufus,Clustered,Site use,Theta Prime,3.4387692080398846,0.2258333934384197
+Mephitis mephitis,1-day SOM,Detection,Intercept,-3.03518483075108,0.07776881701190941
+Mephitis mephitis,1-day SOM,Detection,Canopy height,-0.33995240404302884,0.07502444709590773
+Mephitis mephitis,1-day SOM,Detection,Log dist. to road,0.07115074298643875,0.07399899722619116
+Mephitis mephitis,1-day SOM,Occupancy,Intercept,-2.053592602775913,0.10828101016848296
+Mephitis mephitis,1-day SOM,Occupancy,Max temp.,0.15284761444205514,0.10839541724906658
+Mephitis mephitis,1-day SOM,Occupancy,Pct. forest cover,0.06198562780340045,0.10967848601923529
+Mephitis mephitis,10-day SOM,Detection,Intercept,-1.1304784818685818,0.13835776413280715
+Mephitis mephitis,10-day SOM,Detection,Canopy height,-0.48597345147332904,0.1243427901497567
+Mephitis mephitis,10-day SOM,Detection,Log dist. to road,-0.15016778612311704,0.1201693059986635
+Mephitis mephitis,10-day SOM,Occupancy,Intercept,-1.767155131876451,0.13666592690803525
+Mephitis mephitis,10-day SOM,Occupancy,Max temp.,0.16343870143729194,0.11723526656250294
+Mephitis mephitis,10-day SOM,Occupancy,Pct. forest cover,0.1266524267496606,0.12144197949247124
+Mephitis mephitis,Clustered,Detection,Intercept,-1.7413313522051144,0.15438068602000865
+Mephitis mephitis,Clustered,Detection,Canopy height,-0.3890468528672868,0.10715877295995126
+Mephitis mephitis,Clustered,Detection,Log dist. to road,0.14120874295095318,0.09803385144727
+Mephitis mephitis,Clustered,Occupancy,Intercept,-1.5453830858207322,0.17909348966926616
+Mephitis mephitis,Clustered,Occupancy,Max temp.,0.16432052844077252,0.11506497256627182
+Mephitis mephitis,Clustered,Occupancy,Pct. forest cover,0.06772343974064793,0.11784364730241756
+Mephitis mephitis,Clustered,Site use,Theta,-3.3554444169192537,0.24846080018864983
+Mephitis mephitis,Clustered,Site use,Theta Prime,1.934851272037588,0.23882352378281865
+Odocoileus hemionus,1-day SOM,Detection,Intercept,-2.049823168477071,0.03734433481869831
+Odocoileus hemionus,1-day SOM,Detection,Canopy height,0.11604635793009452,0.03082480140967142
+Odocoileus hemionus,1-day SOM,Detection,Log dist. to road,-0.11017400197636287,0.03647293558344753
+Odocoileus hemionus,1-day SOM,Occupancy,Intercept,0.60019852416123,0.13550518933699643
+Odocoileus hemionus,1-day SOM,Occupancy,Max temp.,-0.3347473662685503,0.1392993426811951
+Odocoileus hemionus,1-day SOM,Occupancy,Pct. forest cover,0.7486003264882819,0.17233050922018597
+Odocoileus hemionus,10-day SOM,Detection,Intercept,0.06887839703155513,0.08959276763026426
+Odocoileus hemionus,10-day SOM,Detection,Canopy height,0.24124672001465697,0.07493516209745997
+Odocoileus hemionus,10-day SOM,Detection,Log dist. to road,-0.10484348431278684,0.08874854319748957
+Odocoileus hemionus,10-day SOM,Occupancy,Intercept,0.6875595358004164,0.15808299659920153
+Odocoileus hemionus,10-day SOM,Occupancy,Max temp.,-0.29719866430639374,0.14846476189235175
+Odocoileus hemionus,10-day SOM,Occupancy,Pct. forest cover,0.7965410015730938,0.2065453429881272
+Odocoileus hemionus,Clustered,Detection,Intercept,-1.1180880785933982,0.07490244846707847
+Odocoileus hemionus,Clustered,Detection,Canopy height,0.06280655040532979,0.04656575111448512
+Odocoileus hemionus,Clustered,Detection,Log dist. to road,-0.05999868383960768,0.05084230353290504
+Odocoileus hemionus,Clustered,Occupancy,Intercept,1.2734894530961285,0.40345987997763544
+Odocoileus hemionus,Clustered,Occupancy,Max temp.,-0.3459149783185151,0.1775677867635947
+Odocoileus hemionus,Clustered,Occupancy,Pct. forest cover,1.3965554841991656,0.5776103483852627
+Odocoileus hemionus,Clustered,Site use,Theta,-2.928380804306081,0.15845654696629077
+Odocoileus hemionus,Clustered,Site use,Theta Prime,2.618595836655367,0.19753199711443295
+Odocoileus virginianus,1-day SOM,Detection,Intercept,-0.8149008635527784,0.01208652814124049
+Odocoileus virginianus,1-day SOM,Detection,Canopy height,-0.02091183004191909,0.01327399208165201
+Odocoileus virginianus,1-day SOM,Detection,Log dist. to road,-0.09181956939622916,0.01534265290773655
+Odocoileus virginianus,1-day SOM,Occupancy,Intercept,1.186794509421577,0.07754000686102251
+Odocoileus virginianus,1-day SOM,Occupancy,Max temp.,0.31468439445829055,0.07949053399745692
+Odocoileus virginianus,1-day SOM,Occupancy,Pct. forest cover,1.1256429032299655,0.08360559005851376
+Odocoileus virginianus,10-day SOM,Detection,Intercept,1.544481072881314,0.05301900132067241
+Odocoileus virginianus,10-day SOM,Detection,Canopy height,9.871399649701727e-4,0.0596369700437775
+Odocoileus virginianus,10-day SOM,Detection,Log dist. to road,-0.3049057914031933,0.07700485074632238
+Odocoileus virginianus,10-day SOM,Occupancy,Intercept,1.2360645212667585,0.0850106126958243
+Odocoileus virginianus,10-day SOM,Occupancy,Max temp.,0.3555106183430624,0.08556557161149994
+Odocoileus virginianus,10-day SOM,Occupancy,Pct. forest cover,1.173939282625137,0.09301244239065348
+Odocoileus virginianus,Clustered,Detection,Intercept,0.12906371038771647,0.02952432382444603
+Odocoileus virginianus,Clustered,Detection,Canopy height,-0.06010431009040427,0.02225569378400936
+Odocoileus virginianus,Clustered,Detection,Log dist. to road,-0.04345946185043223,0.02926955807940611
+Odocoileus virginianus,Clustered,Occupancy,Intercept,1.3403257671703768,0.08874297049618207
+Odocoileus virginianus,Clustered,Occupancy,Max temp.,0.32802888719210177,0.08527677966854812
+Odocoileus virginianus,Clustered,Occupancy,Pct. forest cover,1.1907708213965444,0.09517941911981576
+Odocoileus virginianus,Clustered,Site use,Theta,-1.9140944340879704,0.04277048768664852
+Odocoileus virginianus,Clustered,Site use,Theta Prime,2.2106407577702476,0.06220188426767288
+Otospermophilus beecheyi,1-day SOM,Detection,Intercept,-9.934104953376458,1.6046405187146129
+Otospermophilus beecheyi,1-day SOM,Detection,Canopy height,-0.5018647725281957,0.4322053197833189
+Otospermophilus beecheyi,1-day SOM,Detection,Log dist. to road,-12.82875148200659,2.3337429414446533
+Otospermophilus beecheyi,1-day SOM,Occupancy,Intercept,-6.793486357316082,4.463865824415282
+Otospermophilus beecheyi,1-day SOM,Occupancy,Max temp.,6.182889515653174,5.181109742772104
+Otospermophilus beecheyi,1-day SOM,Occupancy,Pct. forest cover,2.9074328842124824,2.034731124068309
+Otospermophilus beecheyi,10-day SOM,Detection,Intercept,-10.02665845861026,4.0218827045204755
+Otospermophilus beecheyi,10-day SOM,Detection,Canopy height,-1.0884058629468691,1.2210597538542465
+Otospermophilus beecheyi,10-day SOM,Detection,Log dist. to road,-17.817682398578455,7.710486543539973
+Otospermophilus beecheyi,10-day SOM,Occupancy,Intercept,-6.858764256033427,4.4206604012417134
+Otospermophilus beecheyi,10-day SOM,Occupancy,Max temp.,6.4636039131303,5.141971403595145
+Otospermophilus beecheyi,10-day SOM,Occupancy,Pct. forest cover,2.896190057799455,2.018683249209117
+Otospermophilus beecheyi,Clustered,Detection,Intercept,-9.946804939561456,1.5921047998872522
+Otospermophilus beecheyi,Clustered,Detection,Canopy height,-0.5027255756406013,0.42796903952977505
+Otospermophilus beecheyi,Clustered,Detection,Log dist. to road,-12.846229618512416,2.318990217701385
+Otospermophilus beecheyi,Clustered,Occupancy,Intercept,-24.796888764935655,26.3964123357142
+Otospermophilus beecheyi,Clustered,Occupancy,Max temp.,29.03321810496562,31.574138593582017
+Otospermophilus beecheyi,Clustered,Occupancy,Pct. forest cover,12.237794237282175,12.675562341102012
+Otospermophilus beecheyi,Clustered,Site use,Theta,-19.668157958094177,NA
+Otospermophilus beecheyi,Clustered,Site use,Theta Prime,19.43084569879576,NA
+Otospermophilus variegatus,1-day SOM,Detection,Intercept,-3.8038419467569495,0.5517854263928511
+Otospermophilus variegatus,1-day SOM,Detection,Canopy height,0.6698222548468876,0.3114832235006488
+Otospermophilus variegatus,1-day SOM,Detection,Log dist. to road,-0.8594733169916468,0.2670243738099634
+Otospermophilus variegatus,1-day SOM,Occupancy,Intercept,-1.9279384076065655,0.5774872882908411
+Otospermophilus variegatus,1-day SOM,Occupancy,Max temp.,0.15460653441021255,0.6680522236264765
+Otospermophilus variegatus,1-day SOM,Occupancy,Pct. forest cover,-0.6513726322498333,0.6298953503566096
+Otospermophilus variegatus,10-day SOM,Detection,Intercept,-3.184565059396145,0.390595250222647
+Otospermophilus variegatus,10-day SOM,Detection,Canopy height,1.036722614186067,0.33180504441362013
+Otospermophilus variegatus,10-day SOM,Detection,Log dist. to road,-0.3728029341826036,0.24846628985442684
+Otospermophilus variegatus,10-day SOM,Occupancy,Intercept,34.02079188093076,48.02274691156019
+Otospermophilus variegatus,10-day SOM,Occupancy,Max temp.,37.33331577349783,51.311056537058654
+Otospermophilus variegatus,10-day SOM,Occupancy,Pct. forest cover,-29.564586708984333,42.2907906482656
+Otospermophilus variegatus,Clustered,Detection,Intercept,-2.6568581279391847,0.7757966166454309
+Otospermophilus variegatus,Clustered,Detection,Canopy height,1.2188576163997429,0.5245548605721659
+Otospermophilus variegatus,Clustered,Detection,Log dist. to road,-1.4297165295044694,0.367558137029369
+Otospermophilus variegatus,Clustered,Occupancy,Intercept,-1.3649813154349737,0.7646086668895492
+Otospermophilus variegatus,Clustered,Occupancy,Max temp.,0.6665860449824165,0.997037764755552
+Otospermophilus variegatus,Clustered,Occupancy,Pct. forest cover,-0.5656891799717317,0.6523474116829936
+Otospermophilus variegatus,Clustered,Site use,Theta,-2.7345024671124345,0.5581657046732106
+Otospermophilus variegatus,Clustered,Site use,Theta Prime,1.2443424718380651,0.7971443575978769
+Procyon lotor,1-day SOM,Detection,Intercept,-1.5540789339447976,0.01989458522037176
+Procyon lotor,1-day SOM,Detection,Canopy height,0.00828483475367884,0.02032215890483949
+Procyon lotor,1-day SOM,Detection,Log dist. to road,-0.23905527548605812,0.02053048210214507
+Procyon lotor,1-day SOM,Occupancy,Intercept,-0.13511302145094503,0.05585217669335774
+Procyon lotor,1-day SOM,Occupancy,Max temp.,0.02379422663952371,0.06440132192736514
+Procyon lotor,1-day SOM,Occupancy,Pct. forest cover,0.1963479616816469,0.0605335971989539
+Procyon lotor,10-day SOM,Detection,Intercept,0.35849703337710637,0.06379814721222937
+Procyon lotor,10-day SOM,Detection,Canopy height,0.1956669422906953,0.06810197123518959
+Procyon lotor,10-day SOM,Detection,Log dist. to road,-0.46050640283440286,0.07427342020872996
+Procyon lotor,10-day SOM,Occupancy,Intercept,0.02586442514860936,0.06824495743230306
+Procyon lotor,10-day SOM,Occupancy,Max temp.,0.0854690239730018,0.07663622816859514
+Procyon lotor,10-day SOM,Occupancy,Pct. forest cover,0.19778507537726056,0.0707294502382947
+Procyon lotor,Clustered,Detection,Intercept,-0.28693396738634747,0.04744342232950298
+Procyon lotor,Clustered,Detection,Canopy height,-0.11176926043742327,0.03721885690791439
+Procyon lotor,Clustered,Detection,Log dist. to road,-0.20951037664196975,0.04210934235518079
+Procyon lotor,Clustered,Occupancy,Intercept,0.06294612429553621,0.06357791719741668
+Procyon lotor,Clustered,Occupancy,Max temp.,0.01699497803441362,0.06966005209325635
+Procyon lotor,Clustered,Occupancy,Pct. forest cover,0.20823295709382583,0.06684021410476781
+Procyon lotor,Clustered,Site use,Theta,-2.4086577587969065,0.05693024633892282
+Procyon lotor,Clustered,Site use,Theta Prime,1.90718909989448,0.0770655521698196
+Puma concolor,1-day SOM,Detection,Intercept,-3.6937971295230247,0.28327687489032866
+Puma concolor,1-day SOM,Detection,Canopy height,-0.04810402201713155,0.2607524700819943
+Puma concolor,1-day SOM,Detection,Log dist. to road,0.05323662178002919,0.25565533285842856
+Puma concolor,1-day SOM,Occupancy,Intercept,-1.9106929900931475,0.3164481720333082
+Puma concolor,1-day SOM,Occupancy,Max temp.,-0.5396815237023305,0.2816392784122027
+Puma concolor,1-day SOM,Occupancy,Pct. forest cover,0.4113360647830236,0.2517000528284179
+Puma concolor,10-day SOM,Detection,Intercept,-1.7365233536407152,0.5389887558642996
+Puma concolor,10-day SOM,Detection,Canopy height,-0.07386843962810576,0.347931526771483
+Puma concolor,10-day SOM,Detection,Log dist. to road,-0.19012851159122643,0.34885587369558296
+Puma concolor,10-day SOM,Occupancy,Intercept,-1.7316091646197431,0.5115283726840989
+Puma concolor,10-day SOM,Occupancy,Max temp.,-0.7191019377253312,0.35795725032086356
+Puma concolor,10-day SOM,Occupancy,Pct. forest cover,0.5188791659938535,0.3538594013539129
+Puma concolor,Clustered,Detection,Intercept,-2.615920549493762,0.45202025640656546
+Puma concolor,Clustered,Detection,Canopy height,-0.3190516208152044,0.3241443917322308
+Puma concolor,Clustered,Detection,Log dist. to road,0.3125588531754563,0.2754109959484599
+Puma concolor,Clustered,Occupancy,Intercept,1.6965102985547706,1.7302930601197326
+Puma concolor,Clustered,Occupancy,Max temp.,-0.6952950554159728,0.6474738545824236
+Puma concolor,Clustered,Occupancy,Pct. forest cover,4.773290781099279,2.3888326108695432
+Puma concolor,Clustered,Site use,Theta,-4.650582338592073,0.4581621740022994
+Puma concolor,Clustered,Site use,Theta Prime,2.4557788782834304,0.6001426400455847
+Sciurus carolinensis,1-day SOM,Detection,Intercept,-0.7580022812128623,0.01737337829970794
+Sciurus carolinensis,1-day SOM,Detection,Canopy height,0.33244821789888535,0.01881181372423573
+Sciurus carolinensis,1-day SOM,Detection,Log dist. to road,-0.6096052547763914,0.01843832087249327
+Sciurus carolinensis,1-day SOM,Occupancy,Intercept,0.3717468748212428,0.06550940425954918
+Sciurus carolinensis,1-day SOM,Occupancy,Max temp.,-0.311599455937109,0.07122680350686625
+Sciurus carolinensis,1-day SOM,Occupancy,Pct. forest cover,-0.4427029544613453,0.06766126172054628
+Sciurus carolinensis,10-day SOM,Detection,Intercept,0.9655040329399954,0.06914949520021473
+Sciurus carolinensis,10-day SOM,Detection,Canopy height,0.6522256484293717,0.07861385951087309
+Sciurus carolinensis,10-day SOM,Detection,Log dist. to road,-0.8418568917010296,0.08016361285150184
+Sciurus carolinensis,10-day SOM,Occupancy,Intercept,0.6661204377678018,0.0876405967024356
+Sciurus carolinensis,10-day SOM,Occupancy,Max temp.,-0.15083378832957814,0.10551990269427396
+Sciurus carolinensis,10-day SOM,Occupancy,Pct. forest cover,-0.46749550585926697,0.08530084702946403
+Sciurus carolinensis,Clustered,Detection,Intercept,0.596671386165535,0.04091722142194653
+Sciurus carolinensis,Clustered,Detection,Canopy height,0.26698708266551036,0.03722292338952383
+Sciurus carolinensis,Clustered,Detection,Log dist. to road,-0.6459381244298359,0.03769271195861359
+Sciurus carolinensis,Clustered,Occupancy,Intercept,0.542367146681685,0.07396534529496274
+Sciurus carolinensis,Clustered,Occupancy,Max temp.,-0.35044667695439324,0.07840519089319756
+Sciurus carolinensis,Clustered,Occupancy,Pct. forest cover,-0.48522085835652706,0.0759719337978415
+Sciurus carolinensis,Clustered,Site use,Theta,-2.225388490449746,0.05231253399550111
+Sciurus carolinensis,Clustered,Site use,Theta Prime,2.192639637346601,0.0577640413620855
+Sciurus griseus,1-day SOM,Detection,Intercept,-1.763173574424435,0.12434496473235856
+Sciurus griseus,1-day SOM,Detection,Canopy height,-0.6032476428899464,0.15254747281201878
+Sciurus griseus,1-day SOM,Detection,Log dist. to road,0.3242015010700821,0.19211585268782969
+Sciurus griseus,1-day SOM,Occupancy,Intercept,-0.4597067384865054,0.41094493280097
+Sciurus griseus,1-day SOM,Occupancy,Max temp.,-1.4702864930116064,0.6561236131064696
+Sciurus griseus,1-day SOM,Occupancy,Pct. forest cover,1.73088314932365,0.6027313601399918
+Sciurus griseus,10-day SOM,Detection,Intercept,0.7623877348372049,0.3352626254335389
+Sciurus griseus,10-day SOM,Detection,Canopy height,-0.7093152145369774,0.4188509749466005
+Sciurus griseus,10-day SOM,Detection,Log dist. to road,0.8130931752506628,0.530932008023137
+Sciurus griseus,10-day SOM,Occupancy,Intercept,-0.3305431661461181,0.4484788695276358
+Sciurus griseus,10-day SOM,Occupancy,Max temp.,-1.5783014070568755,0.7245674052964829
+Sciurus griseus,10-day SOM,Occupancy,Pct. forest cover,1.9333869612412216,0.7013998552469435
+Sciurus griseus,Clustered,Detection,Intercept,-1.4135692417394294,0.16949868381409458
+Sciurus griseus,Clustered,Detection,Canopy height,-0.7019258494102113,0.18139709558462563
+Sciurus griseus,Clustered,Detection,Log dist. to road,0.2568909430772117,0.24764950714461045
+Sciurus griseus,Clustered,Occupancy,Intercept,-0.15103873110846558,0.5788815960931241
+Sciurus griseus,Clustered,Occupancy,Max temp.,-1.6990713222728335,0.8433845593538956
+Sciurus griseus,Clustered,Occupancy,Pct. forest cover,1.9084989282509457,0.8098903192291478
+Sciurus griseus,Clustered,Site use,Theta,-3.02385463497873,0.7150900000522781
+Sciurus griseus,Clustered,Site use,Theta Prime,3.7152858361999046,0.7006388383443295
+Sciurus niger,1-day SOM,Detection,Intercept,-0.8314811579595225,0.02783565724176458
+Sciurus niger,1-day SOM,Detection,Canopy height,0.28134980578722496,0.03163675707645935
+Sciurus niger,1-day SOM,Detection,Log dist. to road,-0.3614584191694153,0.03862111771709128
+Sciurus niger,1-day SOM,Occupancy,Intercept,-1.461794364019548,0.0888025312461963
+Sciurus niger,1-day SOM,Occupancy,Max temp.,0.36866207855136535,0.09243550846257333
+Sciurus niger,1-day SOM,Occupancy,Pct. forest cover,0.00323954248837984,0.08620282015444783
+Sciurus niger,10-day SOM,Detection,Intercept,0.6704282261271511,0.10293293698721566
+Sciurus niger,10-day SOM,Detection,Canopy height,0.28033918488945436,0.11155990429085544
+Sciurus niger,10-day SOM,Detection,Log dist. to road,-0.00250530199254171,0.15348884018454859
+Sciurus niger,10-day SOM,Occupancy,Intercept,-1.312369886737137,0.09836939728936717
+Sciurus niger,10-day SOM,Occupancy,Max temp.,0.3568729372186092,0.10300712878059094
+Sciurus niger,10-day SOM,Occupancy,Pct. forest cover,-0.10011240579867292,0.10005869249310197
+Sciurus niger,Clustered,Detection,Intercept,0.6798493031719203,0.06586275110073189
+Sciurus niger,Clustered,Detection,Canopy height,0.4069956653037941,0.05739363518201413
+Sciurus niger,Clustered,Detection,Log dist. to road,-0.6037545090029216,0.09824257130251772
+Sciurus niger,Clustered,Occupancy,Intercept,-1.262071444734804,0.0968729821222487
+Sciurus niger,Clustered,Occupancy,Max temp.,0.37665591321120295,0.09765368344464508
+Sciurus niger,Clustered,Occupancy,Pct. forest cover,-0.0413101704821785,0.09140794339771392
+Sciurus niger,Clustered,Site use,Theta,-2.6844706829659986,0.10066377703423404
+Sciurus niger,Clustered,Site use,Theta Prime,2.28618204436538,0.098667356163765
+Sylvilagus floridanus,1-day SOM,Detection,Intercept,-2.043834738156689,0.03885669962427968
+Sylvilagus floridanus,1-day SOM,Detection,Canopy height,-0.33743059185711427,0.03422563633914748
+Sylvilagus floridanus,1-day SOM,Detection,Log dist. to road,-0.29749053890152066,0.03490263821561482
+Sylvilagus floridanus,1-day SOM,Occupancy,Intercept,-1.314878283610407,0.08404943962390839
+Sylvilagus floridanus,1-day SOM,Occupancy,Max temp.,-0.05117172803135084,0.09001388348262088
+Sylvilagus floridanus,1-day SOM,Occupancy,Pct. forest cover,-0.5366454411381577,0.08211521889767613
+Sylvilagus floridanus,10-day SOM,Detection,Intercept,-0.14563674506857813,0.09418488361341495
+Sylvilagus floridanus,10-day SOM,Detection,Canopy height,-0.17707552425162085,0.09512782941506027
+Sylvilagus floridanus,10-day SOM,Detection,Log dist. to road,-0.22167269182373384,0.10534682194359926
+Sylvilagus floridanus,10-day SOM,Occupancy,Intercept,-1.116398181167545,0.09803302248542024
+Sylvilagus floridanus,10-day SOM,Occupancy,Max temp.,-0.12297907250229946,0.10258666493389176
+Sylvilagus floridanus,10-day SOM,Occupancy,Pct. forest cover,-0.6903856679594896,0.10753833098947352
+Sylvilagus floridanus,Clustered,Detection,Intercept,-0.6867387743018945,0.08533738130508053
+Sylvilagus floridanus,Clustered,Detection,Canopy height,-0.5261681184726669,0.06410066945926321
+Sylvilagus floridanus,Clustered,Detection,Log dist. to road,-0.2297882823921917,0.05714311105987816
+Sylvilagus floridanus,Clustered,Occupancy,Intercept,-1.0075887952044214,0.10104428234108412
+Sylvilagus floridanus,Clustered,Occupancy,Max temp.,-0.1103802967336736,0.09779872686105204
+Sylvilagus floridanus,Clustered,Occupancy,Pct. forest cover,-0.6795696933663599,0.09656500423676896
+Sylvilagus floridanus,Clustered,Site use,Theta,-2.759028092398473,0.11122037952605336
+Sylvilagus floridanus,Clustered,Site use,Theta Prime,1.8207138406196244,0.1353498575709034
+Tamias striatus,1-day SOM,Detection,Intercept,-1.5232815731087408,0.04314484797163123
+Tamias striatus,1-day SOM,Detection,Canopy height,0.16562191325159256,0.0489933683601464
+Tamias striatus,1-day SOM,Detection,Log dist. to road,-0.34589455809233216,0.04371409166167474
+Tamias striatus,1-day SOM,Occupancy,Intercept,-1.659405884331005,0.1019077508392239
+Tamias striatus,1-day SOM,Occupancy,Max temp.,-0.6311447844341294,0.1285626583340815
+Tamias striatus,1-day SOM,Occupancy,Pct. forest cover,-0.3449168996899582,0.1025017135317674
+Tamias striatus,10-day SOM,Detection,Intercept,-0.28324596266753443,0.12449825131825974
+Tamias striatus,10-day SOM,Detection,Canopy height,0.7101845549928055,0.1330357622320391
+Tamias striatus,10-day SOM,Detection,Log dist. to road,-0.4617479135162508,0.1290297923470207
+Tamias striatus,10-day SOM,Occupancy,Intercept,-1.2334066796614445,0.12121837406352956
+Tamias striatus,10-day SOM,Occupancy,Max temp.,-0.6586018003642025,0.139188542971847
+Tamias striatus,10-day SOM,Occupancy,Pct. forest cover,-0.5633141946458695,0.13409646981833695
+Tamias striatus,Clustered,Detection,Intercept,0.02975615679659994,0.08405612416977161
+Tamias striatus,Clustered,Detection,Canopy height,0.11641078264146858,0.0767600920329498
+Tamias striatus,Clustered,Detection,Log dist. to road,-0.32618138939547114,0.08980911216675252
+Tamias striatus,Clustered,Occupancy,Intercept,-1.2728501833128878,0.12694311598308683
+Tamias striatus,Clustered,Occupancy,Max temp.,-0.6811857885419964,0.1373812200898289
+Tamias striatus,Clustered,Occupancy,Pct. forest cover,-0.4585242428053325,0.11678763635371642
+Tamias striatus,Clustered,Site use,Theta,-3.1553264831472663,0.13878562372686798
+Tamias striatus,Clustered,Site use,Theta Prime,2.1227392218297108,0.11141746588024352
+Tamiasciurus douglasii,1-day SOM,Detection,Intercept,-0.8526178575040878,0.08453735110659187
+Tamiasciurus douglasii,1-day SOM,Detection,Canopy height,-0.40096246023600673,0.07196659671520765
+Tamiasciurus douglasii,1-day SOM,Detection,Log dist. to road,-0.5477050886443682,0.15137165163465618
+Tamiasciurus douglasii,1-day SOM,Occupancy,Intercept,-0.11131500178581206,0.2560558505205856
+Tamiasciurus douglasii,1-day SOM,Occupancy,Max temp.,-0.46430256937614606,0.2820242601610663
+Tamiasciurus douglasii,1-day SOM,Occupancy,Pct. forest cover,-0.12529631708461675,0.2733158367412339
+Tamiasciurus douglasii,10-day SOM,Detection,Intercept,1.0935074720541804,0.2923731836700866
+Tamiasciurus douglasii,10-day SOM,Detection,Canopy height,-0.27163912948637015,0.2461047713916156
+Tamiasciurus douglasii,10-day SOM,Detection,Log dist. to road,-0.7439411917346107,0.45425260732746103
+Tamiasciurus douglasii,10-day SOM,Occupancy,Intercept,-0.04211421171683369,0.2636649910698103
+Tamiasciurus douglasii,10-day SOM,Occupancy,Max temp.,-0.3864119895927691,0.2997458694154101
+Tamiasciurus douglasii,10-day SOM,Occupancy,Pct. forest cover,-0.20331015994339108,0.2951292658847739
+Tamiasciurus douglasii,Clustered,Detection,Intercept,0.10982806442697549,0.1335621574222613
+Tamiasciurus douglasii,Clustered,Detection,Canopy height,-0.1325882539299324,0.09245439765870296
+Tamiasciurus douglasii,Clustered,Detection,Log dist. to road,-0.5527815584699222,0.2396371702304078
+Tamiasciurus douglasii,Clustered,Occupancy,Intercept,0.02378312572214973,0.2779637271512003
+Tamiasciurus douglasii,Clustered,Occupancy,Max temp.,-0.39554166395824136,0.3061736022167718
+Tamiasciurus douglasii,Clustered,Occupancy,Pct. forest cover,-0.16870105775842606,0.29841729015402046
+Tamiasciurus douglasii,Clustered,Site use,Theta,-2.832616505307812,0.23727888512729237
+Tamiasciurus douglasii,Clustered,Site use,Theta Prime,2.7117604031866365,0.24485721385342368
+Tamiasciurus hudsonicus,1-day SOM,Detection,Intercept,-1.3042348321808386,0.06101646884105791
+Tamiasciurus hudsonicus,1-day SOM,Detection,Canopy height,-0.08396313531321221,0.07152093578168411
+Tamiasciurus hudsonicus,1-day SOM,Detection,Log dist. to road,-0.14093553386821925,0.06019104589022246
+Tamiasciurus hudsonicus,1-day SOM,Occupancy,Intercept,-2.7502099217583704,0.17508107512309456
+Tamiasciurus hudsonicus,1-day SOM,Occupancy,Max temp.,-1.046594530039328,0.1817172830728174
+Tamiasciurus hudsonicus,1-day SOM,Occupancy,Pct. forest cover,-0.21955774194731284,0.1577832691493745
+Tamiasciurus hudsonicus,10-day SOM,Detection,Intercept,-0.00177589183446943,0.19583865539741593
+Tamiasciurus hudsonicus,10-day SOM,Detection,Canopy height,0.27017429585189634,0.2180044708186868
+Tamiasciurus hudsonicus,10-day SOM,Detection,Log dist. to road,0.2380245236542052,0.1797178021382294
+Tamiasciurus hudsonicus,10-day SOM,Occupancy,Intercept,-2.418518229184456,0.19230808478400865
+Tamiasciurus hudsonicus,10-day SOM,Occupancy,Max temp.,-0.8735233636613532,0.1864652788659315
+Tamiasciurus hudsonicus,10-day SOM,Occupancy,Pct. forest cover,-0.24804721729903867,0.16489098461632923
+Tamiasciurus hudsonicus,Clustered,Detection,Intercept,0.6130878178855422,0.12898209821580406
+Tamiasciurus hudsonicus,Clustered,Detection,Canopy height,-0.25457089487585105,0.12992248115872132
+Tamiasciurus hudsonicus,Clustered,Detection,Log dist. to road,-0.07412594437068197,0.11650092606001058
+Tamiasciurus hudsonicus,Clustered,Occupancy,Intercept,-2.428758034675768,0.19143896448409323
+Tamiasciurus hudsonicus,Clustered,Occupancy,Max temp.,-0.9760532947251364,0.18486569674418504
+Tamiasciurus hudsonicus,Clustered,Occupancy,Pct. forest cover,-0.1905152610916417,0.16136253726981792
+Tamiasciurus hudsonicus,Clustered,Site use,Theta,-3.1225507290560928,0.1772696933084518
+Tamiasciurus hudsonicus,Clustered,Site use,Theta Prime,1.9726232992049717,0.16260125822566462
+Urocyon cinereoargenteus,1-day SOM,Detection,Intercept,-2.4784971348573692,0.07322529991933244
+Urocyon cinereoargenteus,1-day SOM,Detection,Canopy height,0.09182331232812369,0.07444035078465729
+Urocyon cinereoargenteus,1-day SOM,Detection,Log dist. to road,0.4663820082556472,0.10758736389096202
+Urocyon cinereoargenteus,1-day SOM,Occupancy,Intercept,-2.729901367041288,0.13731470311503216
+Urocyon cinereoargenteus,1-day SOM,Occupancy,Max temp.,0.4098159793619718,0.13560665729648455
+Urocyon cinereoargenteus,1-day SOM,Occupancy,Pct. forest cover,0.365094309226559,0.1474886866685349
+Urocyon cinereoargenteus,10-day SOM,Detection,Intercept,-0.33867556364279544,0.154108278703278
+Urocyon cinereoargenteus,10-day SOM,Detection,Canopy height,0.1909144682837788,0.14949784006023437
+Urocyon cinereoargenteus,10-day SOM,Detection,Log dist. to road,0.5267539725627736,0.19883964535922924
+Urocyon cinereoargenteus,10-day SOM,Occupancy,Intercept,-2.586887338304688,0.14845383728629377
+Urocyon cinereoargenteus,10-day SOM,Occupancy,Max temp.,0.4579226691350312,0.14255660015685476
+Urocyon cinereoargenteus,10-day SOM,Occupancy,Pct. forest cover,0.3558105327295998,0.1556946655911717
+Urocyon cinereoargenteus,Clustered,Detection,Intercept,-1.50028500123481,0.1405079417068858
+Urocyon cinereoargenteus,Clustered,Detection,Canopy height,-0.07889668887582423,0.1187195979978946
+Urocyon cinereoargenteus,Clustered,Detection,Log dist. to road,0.12835898364590057,0.13984423804901044
+Urocyon cinereoargenteus,Clustered,Occupancy,Intercept,-2.1104728579001,0.3103249782138857
+Urocyon cinereoargenteus,Clustered,Occupancy,Max temp.,0.470506301534802,0.14840736367637022
+Urocyon cinereoargenteus,Clustered,Occupancy,Pct. forest cover,0.4708150745697731,0.16007657750596874
+Urocyon cinereoargenteus,Clustered,Site use,Theta,-3.781688693321404,0.48047566590591895
+Urocyon cinereoargenteus,Clustered,Site use,Theta Prime,2.556079679872955,0.3038979968898697
+Ursus americanus,1-day SOM,Detection,Intercept,-3.2777961070409107,0.10962210118556776
+Ursus americanus,1-day SOM,Detection,Canopy height,0.0876670577149683,0.08085071213630778
+Ursus americanus,1-day SOM,Detection,Log dist. to road,0.2864167430839604,0.1024374210391064
+Ursus americanus,1-day SOM,Occupancy,Intercept,-2.5112987600369707,0.17927038397003892
+Ursus americanus,1-day SOM,Occupancy,Max temp.,-1.1160717754074172,0.1507206989067227
+Ursus americanus,1-day SOM,Occupancy,Pct. forest cover,0.9421921391676766,0.1421050792589057
+Ursus americanus,10-day SOM,Detection,Intercept,-1.3950406697775453,0.1719533332597091
+Ursus americanus,10-day SOM,Detection,Canopy height,0.22910807478621492,0.12220560208253808
+Ursus americanus,10-day SOM,Detection,Log dist. to road,0.34732306720736944,0.13853549983150662
+Ursus americanus,10-day SOM,Occupancy,Intercept,-2.230278677999262,0.21785062941297337
+Ursus americanus,10-day SOM,Occupancy,Max temp.,-1.2201550516806643,0.17400392449588933
+Ursus americanus,10-day SOM,Occupancy,Pct. forest cover,0.9810345435797824,0.16104376920296545
+Ursus americanus,Clustered,Detection,Intercept,-2.2931941616495366,0.1553325357302026
+Ursus americanus,Clustered,Detection,Canopy height,0.0855724149138161,0.1124138150793034
+Ursus americanus,Clustered,Detection,Log dist. to road,0.6394524060692025,0.1364641043598168
+Ursus americanus,Clustered,Occupancy,Intercept,-1.7813409874689874,0.2663509717688762
+Ursus americanus,Clustered,Occupancy,Max temp.,-1.3646080505283391,0.21785431362306548
+Ursus americanus,Clustered,Occupancy,Pct. forest cover,1.2659031103983962,0.2258170792539067
+Ursus americanus,Clustered,Site use,Theta,-3.734864155792083,0.26234873746119924
+Ursus americanus,Clustered,Site use,Theta Prime,2.4342444645222394,0.23890744544626671
+Vulpes vulpes,1-day SOM,Detection,Intercept,-2.1584839078007696,0.05177077614971331
+Vulpes vulpes,1-day SOM,Detection,Canopy height,-0.3191576513925877,0.04311258455542099
+Vulpes vulpes,1-day SOM,Detection,Log dist. to road,-0.47650543610598334,0.04308505545758714
+Vulpes vulpes,1-day SOM,Occupancy,Intercept,-1.7249601025349013,0.08549571130851158
+Vulpes vulpes,1-day SOM,Occupancy,Max temp.,-0.5217351025025732,0.096455775689721
+Vulpes vulpes,1-day SOM,Occupancy,Pct. forest cover,-0.30137002851007993,0.08741793599229541
+Vulpes vulpes,10-day SOM,Detection,Intercept,-0.4032347183110941,0.12887935919795057
+Vulpes vulpes,10-day SOM,Detection,Canopy height,-0.4257719472930555,0.13005462947788998
+Vulpes vulpes,10-day SOM,Detection,Log dist. to road,-0.6995888024332851,0.11411807250661749
+Vulpes vulpes,10-day SOM,Occupancy,Intercept,-1.4776840742465485,0.10446980895239424
+Vulpes vulpes,10-day SOM,Occupancy,Max temp.,-0.503776171008135,0.10631293036717776
+Vulpes vulpes,10-day SOM,Occupancy,Pct. forest cover,-0.2613881483045377,0.09787002855331366
+Vulpes vulpes,Clustered,Detection,Intercept,-0.92888589397052,0.10744936406321186
+Vulpes vulpes,Clustered,Detection,Canopy height,-0.3954157169071161,0.0783767912624008
+Vulpes vulpes,Clustered,Detection,Log dist. to road,-0.5050775475563457,0.06921889540413215
+Vulpes vulpes,Clustered,Occupancy,Intercept,-1.49291027387042,0.09930123488984868
+Vulpes vulpes,Clustered,Occupancy,Max temp.,-0.5151839896446302,0.09950317274858632
+Vulpes vulpes,Clustered,Occupancy,Pct. forest cover,-0.32416836481345923,0.0918254172784004
+Vulpes vulpes,Clustered,Site use,Theta,-2.7382387023257047,0.14013137645042267
+Vulpes vulpes,Clustered,Site use,Theta Prime,1.9538075829624837,0.1656673633758694

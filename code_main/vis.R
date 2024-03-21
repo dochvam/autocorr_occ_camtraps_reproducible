@@ -356,7 +356,6 @@ source("code_helper/helper_fn_clustered.R")
 source("code_helper/vis_fn.R")
 
 species_df <- read_csv("input_data/casestudy_target_specs.csv") %>% 
-  left_join(hr_sizes, by = c("sciname" = "Species")) %>% 
   mutate(median_depl = NA)%>% 
   filter(!common_name %in% c("Desert Cottontail"))
 gof_df <-         read_csv("intermediate/casestudy_gof_df.csv")
@@ -383,7 +382,7 @@ panelA <- lm_gof_dat %>%
   theme_bw() +
   geom_hline(yintercept = 0.05) +
   xlab("") + ylab("Join count test p-value") +
-  ggtitle("A.") +
+  ggtitle("A. Evidence of autocorrelation") +
   scale_shape_manual(values = c(1, 19))
 
 clustered_dat_toplot <- clustered_df %>% 
@@ -440,7 +439,7 @@ compareplots[[1]] <- res_df_wider %>%
   ylim(c(-0.25, 1)) +
   xlab("") +
   ylab("Change in param. estimate (vs. 1-day window)") +
-  ggtitle("B.") +
+  ggtitle("B. Parameter estimation") +
   scale_fill_manual("", values = c("#1f78b4", "#b2df8a"))
 
 all_legend <- get_legend(compareplots[[1]])
@@ -461,7 +460,7 @@ compareplots[[2]] <- res_df_wider %>%
   ylim(c(-0.025, 0.1)) +
   xlab("") +
   ylab("Change in param. SE (vs. 1-day window)") + 
-  ggtitle("C.") +
+  ggtitle("C. Uncertainty") +
   scale_fill_manual("", values = c("#1f78b4", "#b2df8a")) +
   theme(legend.position = "none")
 
@@ -474,8 +473,8 @@ layout_mtx <- matrix(c(
   1,3,3), byrow = TRUE, nrow = 2)
 plots <- arrangeGrob(grobs = casestudy_plots, 
                      layout_matrix = layout_mtx,
-                     right = all_legend, widths = c(1.8, 1, 1))
+                     right = all_legend, widths = c(2.1, 1, 1))
 
 ggsave("plots/fig8_casestudy.jpg", plot = plots, 
-       width = 9, height = 5)
+       width = 10, height = 5)
 
