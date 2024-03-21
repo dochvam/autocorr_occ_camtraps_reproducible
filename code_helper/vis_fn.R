@@ -1,5 +1,4 @@
 #########################################################################
-#' Author: Benjamin R. Goldstein
 #' vis_fn.R
 #' 
 #' This file holds helper functions for use in visualizations

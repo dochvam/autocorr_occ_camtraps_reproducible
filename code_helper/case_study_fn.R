@@ -1,5 +1,4 @@
 #########################################################################
-#' Author: Benjamin R. Goldstein
 #' case_study_fn.R
 #' 
 #' This file holds helper functions to support the case study pipeline.

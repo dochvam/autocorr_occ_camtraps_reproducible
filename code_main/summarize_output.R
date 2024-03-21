@@ -1,5 +1,4 @@
 #########################################################################
-#' Author: Benjamin R. Goldstein
 #' summarize_output.R
 #' 
 #' This file processes and summarizes the output data from simulations 

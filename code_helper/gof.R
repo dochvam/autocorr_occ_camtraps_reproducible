@@ -1,5 +1,4 @@
 #########################################################################
-#' Author: Benjamin R. Goldstein
 #' gof.R
 #' 
 #' This file holds helper functions that support estimating goodness-of-fit

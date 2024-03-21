@@ -1,5 +1,4 @@
 #########################################################################
-#' Author: Benjamin R. Goldstein
 #' run_snapshot_casestudy.R
 #' 
 #' This file executes the analyses for the case study estimating occupancy

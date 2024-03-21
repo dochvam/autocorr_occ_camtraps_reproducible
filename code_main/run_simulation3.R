@@ -1,5 +1,4 @@
 #########################################################################
-#' Author: Benjamin R. Goldstein
 #' run_simulation3.R
 #' 
 #' This file executes simulation 3 from the manuscript and produces output

@@ -1,5 +1,4 @@
 #########################################################################
-#' Author: Benjamin R. Goldstein
 #' vis.R
 #' 
 #' This file creates the plots in the manuscript.

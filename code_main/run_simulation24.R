@@ -1,5 +1,4 @@
 #########################################################################
-#' Author: Benjamin R. Goldstein
 #' run_simulation24.R
 #' 
 #' This file executes simulations 2 and 4 from the manuscript and produces output

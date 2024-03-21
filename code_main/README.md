@@ -1,6 +1,6 @@
 # `code_main`
 
-This directory contains the main .R functions that execute,
+This directory contains the main .R functions that execute and visualize the simulations and case study.
 
 The following four scripts execute the simulations and the case study. They should all be executable out-of-the-box:
 

@@ -9,7 +9,7 @@ This directory contains several sources of data needed for running the code. It 
         -   siteCovs: a matrix of scaled occupancy covariates (forest cover and maximum temperature)
         -   obsCovs: a matrix of scaled detection covariates (canopy height and log distance to road)
 -   litreview_results.csv: a .csv file containing the results of the literature review of detection windows described in the manuscript. Each row of the dataset represents one of the 100 randomly selected papers returned by a literature search. Its columns are:
-    -    Title: the title of the paper
+    -   Title: the title of the paper
     -   DOI: the paper's DOI
     -   year: the year in which the paper was published
     -   Qualified: whether or not the paper qualified for review (it was a paper using a hierarchical occupancy model or occupancy model extension to analyze camera trap data)

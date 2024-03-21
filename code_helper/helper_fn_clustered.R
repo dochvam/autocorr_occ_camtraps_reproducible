@@ -1,5 +1,4 @@
 #########################################################################
-#' Author: Benjamin R. Goldstein
 #' helper_fn_clustered.R
 #' 
 #' This file holds helper functions for use in simulating data and 
