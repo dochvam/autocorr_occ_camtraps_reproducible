@@ -1,4 +1,6 @@
-# autocorr_occ_camtraps_reproducible
+# autocorr_occ_camtraps_reproducible 
+
+<a href="https://zenodo.org/doi/10.5281/zenodo.11199279"><img src="https://zenodo.org/badge/739137921.svg" alt="DOI"></a>
 
 Reproducing the simulation study investigating the impact of autocorrelated camera trap detections on occupancy models by Goldstein et al.
 
