@@ -1,5 +1,6 @@
 #########################################################################
 #' summarize_output.R
+#' Author: Benjamin R. Goldstein
 #' 
 #' This file processes and summarizes the output data from simulations 
 #' 1, 3, and 4 for use in visualizations. The goal is to end up with a 

@@ -1,5 +1,6 @@
 #########################################################################
 #' run_simulation1.R
+#' Author: Benjamin R. Goldstein
 #' 
 #' This file executes simulation 1 from the manuscript and produces output
 #' files giving results from those simulations. Simulation 1 looks at how
